@@ -1,0 +1,17 @@
+#div_pagination{
+    text-align:center;
+}
+
+.button{
+   padding: 5px 15px;
+text-decoration: none;
+background: #333;
+color: #F3F3F3;
+float: center;
+}
+
+.divnum_rows{
+    display: inline-block;
+    text-align: right;
+    width: 30%;
+}
